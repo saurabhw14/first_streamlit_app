@@ -1,3 +1,3 @@
-import streamlight
+import streamlit
 
-streamlight.title("Test")
+streamlit.title("Test")
