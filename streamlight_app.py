@@ -1,1 +1,3 @@
-created the main python file
+import streamlight
+
+streamlight.title("Test")
